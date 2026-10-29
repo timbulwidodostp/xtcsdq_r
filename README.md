@@ -1,6 +1,8 @@
 # xtcsdq_r
 Tests of no cross-sectional error dependence in panel quantile regressions Use xtcsdq (paneltests) With (In) R Software
 
+https://www.youtube.com/watch?v=EZy0KxAB9xo
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
